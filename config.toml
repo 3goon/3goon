@@ -1,0 +1,4 @@
+baseURL = 'http://www.3goon.net/'
+languageCode = 'en-us'
+title = '3goon'
+theme = 'ananke'
